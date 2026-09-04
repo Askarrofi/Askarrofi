@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Ganti banner.png sesuai nama file yang Anda upload -->
-  <img src="./Bronya (2).png" width="100%" alt="Bronya Banner" />
+  <img src="https://tenor.com/view/bronya-think-loading-gif-honkai-impact-gif-26952642" width="100%" alt="Bronya Banner" />
 
-  # 🎮 Greetings, Captain / Trailblazer!
+  # 🎮 Greetings, Captain!
   <p><em>"Bronya will execute the mission with 100% precision."</em></p>
 
   <img src="https://img.shields.io/badge/Status-Online-00C0FF?style=for-the-badge&logo=target" />

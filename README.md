@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti banner.png sesuai nama file yang Anda upload -->
-  <img src="https://tenor.com/view/bronya-think-loading-gif-honkai-impact-gif-26952642" width="100%" alt="Bronya Banner" />
+  <img src="./Bronya.gif" width="100%" alt="Bronya Banner" />
 
   # 🎮 Greetings, Captain!
   <p><em>"Bronya will execute the mission with 100% precision."</em></p>

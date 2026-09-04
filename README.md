@@ -23,6 +23,6 @@
 ### 📊 Combat Diagnostics
 <div align="center">
   <!-- Ganti USERNAME_KAMU dengan username GitHub Anda -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Askarrofi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Askarrofi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Askarrofi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Askarrofi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
